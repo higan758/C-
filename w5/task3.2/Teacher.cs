@@ -9,7 +9,7 @@
             Console.WriteLine("Teacher teaches in English");
         }
 
-        public void SalaryInfo()   
+        public void SalaryInfo()   //used sealed and threw error
         {
             Console.WriteLine("This teacher earns a fixed monthly salary.");
         }
